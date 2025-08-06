@@ -2,3 +2,7 @@ country_name
 India
 SL
 USA
+Canada
+UAE
+SIngapore
+Malaysia
